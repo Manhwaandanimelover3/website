@@ -1,3 +1,4 @@
+![IMG_20240710_170948](https://github.com/tachiyomiorg/website/assets/175315778/34d90d4b-3ffc-4ea1-901d-aa24531ec698)
 ---
 title: Browse
 titleTemplate: Frequently Asked Questions
